@@ -2,4 +2,4 @@
 Implementation of some Graph Theory Algorithms from scratch in Python.
 
 This includes:
--Djikstras algorithm for shortest paths.
+Djikstras algorithm for shortest paths.
